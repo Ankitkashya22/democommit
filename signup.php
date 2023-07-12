@@ -20,6 +20,7 @@ $dob = $_POST['dob'];
 $lang1 = implode(",",$lang);
 
 // this is demo 
+// this is testing account
 
 
 $gender= $_POST['gender'];
